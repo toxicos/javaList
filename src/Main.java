@@ -10,7 +10,19 @@ public class Main {
 		
 		System.out.println("WTF");
 		System.out.println("WTF");
+
+		
+		
 		
 	}
 
 }
+
+
+
+
+
+
+
+
+git init ; git add * ; git commit -m "first commit" ;git push -u origin master
