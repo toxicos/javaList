@@ -11,9 +11,6 @@ public class Main {
 		System.out.println("WTF");
 		System.out.println("WTF");
 
-		
-		
-		
 	}
 
 }
