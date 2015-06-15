@@ -1,1 +1,1 @@
-# sample
+# Java Structures examples!
